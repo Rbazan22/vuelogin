@@ -15,7 +15,7 @@ const loggingOut = () => {
 <template>
 <div class="bg-red-800 text-red-200">
     <div class="container mx-auto flex items-center justify-between">
-        <h1 class="px-2 tracking-tighter text-3xl font-thin">Vue<span class="font-normal">FakeAuth</span>
+        <h1 class="px-2 tracking-tighter text-3xl font-thin">Vue<span class="font-normal">RealAuth</span>
         </h1>
         <nav>
             <ul class="flex space-x-4">

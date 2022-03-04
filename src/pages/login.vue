@@ -1,5 +1,4 @@
 <script setup>
-import { getGlobalThis } from "@vue/shared";
 import {ref} from "vue";
 import {useRouter} from "vue-router";
 import useAuth from "../composable/useAuth";
